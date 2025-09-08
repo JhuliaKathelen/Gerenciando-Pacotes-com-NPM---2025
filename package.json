@@ -1,0 +1,13 @@
+{
+  "name": "gerenciando-pacotes-com-npm-2025",
+  "version": "1.0.0",
+  "author": "Jhulia Kathelen",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
+
